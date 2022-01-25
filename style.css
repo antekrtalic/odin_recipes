@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.main-recipe {
+    width: 600px;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3, a {
+    font-family: 'Times New Roman', Times, serif;
+}
